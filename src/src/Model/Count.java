@@ -1,9 +1,10 @@
 package Model;
 
-public class Customer
+
+public class Count
 {
   public static void main(String[] args)
   {
-    System.out.println("LOL");
+    System.out.println("somae bullshit");
   }
 }
